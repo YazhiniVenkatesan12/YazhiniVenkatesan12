@@ -1,6 +1,7 @@
-<h1 align="center">
-  <span style="color:#58A6FF; font-family:'Orbitron', sans-serif; font-size:40px;">Yazhini V</span>
-</h1>
+<p align="center">
+  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Yazhini%20V&width=800&height=200" alt="Yazhini V" />
+</p>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&color=6A5ACD&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;ML+Engineer;Building+Tech+That+Thinks;" alt="Typing SVG" />
 </p>
