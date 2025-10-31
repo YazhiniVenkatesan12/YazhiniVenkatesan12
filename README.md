@@ -1,6 +1,6 @@
-<h1 align="center" style="font-family: 'Orbitron', sans-serif; color:#58A6FF; font-size:40px;">
-  Yazhini V
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=36&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Yazhini+V" alt="Yazhini V" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&color=6A5ACD&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;ML+Engineer;Building+Tech+That+Thinks;" alt="Typing SVG" />
