@@ -1,6 +1,11 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&color=6A5ACD&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Yazhini+Venkatesan;Full+Stack+Developer+%7C+ML+Engineer;Building+Tech+That+Thinks" alt="Typing SVG" />
+<h1 align="center" style="font-family: 'Orbitron', sans-serif; color:#C9D1D9; font-size:40px;">
+  Yazhini V
 </h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&color=6A5ACD&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;ML+Engineer;Building+Tech+That+Thinks;AI+and+NLP+Researcher" alt="Typing SVG" />
+</p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YazhiniVenkatesan12&label=Profile+Views&color=6A5ACD&style=flat-square" alt="profile views"/>
