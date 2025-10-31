@@ -60,22 +60,6 @@
 
 ---
 
-## 🚀 Featured Projects  
-
-🔹 [**Full Stack Web Development Projects**](https://yazhinivenkatesan12.github.io/fullstackprograms/)  
-> A showcase of 5 interactive applications built using HTML, CSS, and JavaScript — from portfolio to food delivery and microblogging.  
-
-🔹 **Phishing Detection using ML & NLP**  
-> Research-grade phishing website & email detection system integrating ML classifiers and NLP analysis.  
-
-🔹 **AI-Powered Smart Retail System (Walmart Sparkathon)**  
-> Predicts perishable product expiry and optimizes dynamic discounting using weather & consumption trends.  
-
-🔹 **Wholesale B2B Store System**  
-> Node.js + PostgreSQL backend with JWT auth, order management, and real-time inventory.  
-
----
-
 ## 🤝 Connect With Me  
 
 <p align="center">
