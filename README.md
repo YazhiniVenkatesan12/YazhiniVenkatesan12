@@ -1,4 +1,4 @@
-<h1 align="center" style="font-family: 'Orbitron', sans-serif; color:#C9D1D9; font-size:40px;">
+<h1 align="center" style="font-family: 'Orbitron', sans-serif; color:#58A6FF; font-size:40px;">
   Yazhini V
 </h1>
 
