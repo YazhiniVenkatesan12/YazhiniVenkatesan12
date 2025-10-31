@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://readme-hero-generator.vercel.app/api?name=Yazhini%20Venkatesan&description=Full%20Stack%20Developer%20%7C%20ML%20Engineer%20%7C%20AI%20Researcher&color=58A6FF&theme=dark" alt="Yazhini Venkatesan Banner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=36&duration=1&pause=999999&color=58A6FF&center=true&vCenter=true&width=435&lines=Yazhini+V" alt="Yazhini V" />
 </p>
-
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&color=6A5ACD&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;ML+Engineer;Building+Tech+That+Thinks;" alt="Typing SVG" />
